@@ -165,9 +165,8 @@ Through this project:
 
 ## 👩‍💻 Author
 
-Aniya Mehra
+Aniya Mehra<br>
 AI Student | NLP Enthusiast | Future ML Engineer
 
 GitHub:https://github.com/AANIYAMEHRA
-├── utils/
 └── README.md
