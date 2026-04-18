@@ -5,6 +5,10 @@ An intelligent NLP-powered chatbot built for Intelligent Enterprise Applications
 </p>
 
 <p align="center">
+<img src="banner.png" width="750">
+</p>
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/NLP-Chatbot-green?style=for-the-badge">
@@ -50,8 +54,10 @@ Backend NLP Engine
 ⬇  
 Response Generation Module
 
+<p align="center">
+<img src="dashboard.png" width="750">
+</p>
 
----
 
 ## ✨ Features
 
